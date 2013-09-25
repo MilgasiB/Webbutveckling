@@ -1,0 +1,17 @@
+/*
+Author: Benjamin Eekenulv
+Contact: Benjamin.eekenulv.te12d@gmail.com
+Description: Creating a text border and background color
+*/
+
+/* kommentar, kan läggas var som helst */
+body{
+	background-color: teal;
+	width: 60%;
+/* här */
+}
+#container{
+	border:1px solid #000000;
+/* och här! */
+}
+<BODY>
