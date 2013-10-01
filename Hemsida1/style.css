@@ -7,9 +7,28 @@ Description: Creating a text border and background color
 /* kommentar, kan läggas var som helst */
 body{
 	background-color: teal;
-	width: 60%;
+	background-image: url(images/apa.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	width: 100%;
 /* här */
 }
+#mainNav li {
+	font-family: :sans serif;
+	font-weight: bold;
+	font-size: :1.2em;
+	text-decoration: overline;
+	text-align:center;
+	boder-radius:10px 10px 10px 10px;
+	border: 1px solid #ff0000;
+	
+}
+#NavigationMainMenu{
+	
+border: 2px solid #000000;
+}
+
+
 #container{
 	border:1px solid #000000;
 /* och här! */
