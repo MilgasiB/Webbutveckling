@@ -1,0 +1,19 @@
+a {
+	color:#0000ff;
+	/** "a" skapar en länk **/
+}
+a:hover{
+	
+	text-decoration: none;
+	/** När man håller över den **/
+}
+
+a:active{
+	color: #ff0000;
+	/** När man klickar på den **/
+}
+
+a:visited{
+	color: #ff00ff;
+	/** När man HAR klickat på den **/
+}

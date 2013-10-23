@@ -14,12 +14,12 @@ package
 		public var gameRounds:int = 0;
 		
 		private var playerHP:int = 100;
-		private var playerDMG:int = 15;
+		private var playerDMG:int = 20;
 		
 		
 		
 		private var enemyHP:int = 100;
-		private var enemyDMG:int = 15;
+		private var enemyDMG:int = 20;
 		
 		
 		
